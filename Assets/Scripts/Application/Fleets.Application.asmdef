@@ -1,0 +1,16 @@
+{
+    "name": "Fleets.Application",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1457f6318bb8b384da6d5b6c35df679e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

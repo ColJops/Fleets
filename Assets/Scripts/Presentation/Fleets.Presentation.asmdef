@@ -1,0 +1,16 @@
+{
+    "name": "Fleets.Presentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b1ea11ecb50d657418e1096340135763"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
