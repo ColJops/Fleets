@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bffgjthnhtxbt"]
+
+[ext_resource type="Script" uid="uid://cat7b6m6bbjqi" path="res://FleetsBootstrap.cs" id="1_l2db1"]
+
+[node name="Node" type="Node" unique_id=1382246300]
+script = ExtResource("1_l2db1")
